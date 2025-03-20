@@ -1,6 +1,6 @@
 # smartSearch
 
-🚀 Aladdin Movie Graph is a high-performance, GPU-accelerated movie recommendation engine that builds a semantic network of movies based on metadata, actor collaborations, and deep text similarity. Designed for speed and accuracy, this system enables intelligent search and discovery using graph-based relationships and AI-powered similarity.
+🚀 This is a high-performance, GPU-accelerated movie recommendation engine that builds a semantic network of movies based on metadata, actor collaborations, and deep text similarity. Designed for speed and accuracy, this system enables intelligent search and discovery using graph-based relationships and AI-powered similarity.
 
 📌 Features
 
